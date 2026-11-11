@@ -14,3 +14,4 @@ mlflow.db
 *.mov
 *.mkv
 .DS_Store
+CLAUDE.md
