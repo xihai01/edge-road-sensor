@@ -1,0 +1,7 @@
+# Install PyTorch first, per machine (see README)
+ultralytics==8.4.202
+opencv-python==5.0.0.93
+supervision==0.31.4
+pycocotools==2.0.11
+dvc[s3]==X.Y.Z
+mlflow==X.Y.Z

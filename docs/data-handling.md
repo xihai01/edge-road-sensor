@@ -1,0 +1,1 @@
+raw roadside video is never committed to git or pushed to DVC, and only blurred clips are
