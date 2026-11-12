@@ -46,7 +46,7 @@ $ python -c "import torch; print(torch.__version__, torch.backends.mps.is_availa
 2.15.0 True
 
 $ yolo checks
-Creating new Ultralytics Settings v0.0.8 file ✅ 
+Creating new Ultralytics Settings v0.0.8 file ✅
 View Ultralytics Settings with 'yolo settings' or at '/Users/xihailuo/Library/Application Support/Ultralytics/settings.json'
 Update Settings with 'yolo settings key=value', i.e. 'yolo settings runs_dir=path/to/dir'. For help see https://docs.ultralytics.com/usage/settings
 Ultralytics 8.4.202 🚀 Python-3.11.18 torch-2.15.0 CPU (Apple M4)
@@ -119,3 +119,14 @@ Pending: waiting on the school to confirm GPU model, VRAM, OS and access method.
 ## 3. Jetson (edge)
 
 Pending: hardware not yet received.
+
+---
+
+## 4. Repository & Tooling
+```bash
+(roadsensor) xihailuo@Mac edge-road-sensor % git remote -v && dvc --version && dvc remote list && mlflow --version
+origin	git@github.com:xihai01/edge-road-sensor.git (fetch)
+origin	git@github.com:xihai01/edge-road-sensor.git (push)
+3.67.1
+mlflow, version 3.18.0
+```
