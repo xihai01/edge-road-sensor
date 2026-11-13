@@ -1,0 +1,14 @@
+# RDD2022 code -> unified class (3 = Pothole, 4 = Crack). null = drop label.
+D00: 4
+D10: 4
+D20: 4
+D01: 4
+D11: 4
+Block crack: 4
+D0w0: 4      # typo for D00 (1 instance)
+D40: 3
+D43: null    # crosswalk blur (marking, not damage)
+D44: null    # white line blur (marking)
+D50: null    # manhole/utility cover; kept as hard negative
+Repair: null # patched area; candidate future class for H2
+exclude_subsets: [China_Drone]  # aerial viewpoint
