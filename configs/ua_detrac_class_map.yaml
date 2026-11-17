@@ -1,0 +1,5 @@
+# configs/ua_detrac_class_map.yaml
+car: 0      # Car
+van: 0      # Car: light vehicle, car-like axle loads (decision to confirm)
+bus: 1      # Bus
+others: 2   # Truck: mostly trucks, only 74 tracks
