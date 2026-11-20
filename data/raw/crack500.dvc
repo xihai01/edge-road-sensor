@@ -4,3 +4,4 @@ outs:
   nfiles: 7440
   hash: md5
   path: crack500
+  push: false

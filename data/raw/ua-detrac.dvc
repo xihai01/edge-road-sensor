@@ -4,3 +4,4 @@ outs:
   nfiles: 140232
   hash: md5
   path: ua-detrac
+  push: false

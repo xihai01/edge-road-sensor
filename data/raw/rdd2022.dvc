@@ -4,3 +4,4 @@ outs:
   nfiles: 85813
   hash: md5
   path: rdd2022
+  push: false
