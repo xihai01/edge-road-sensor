@@ -1,7 +1,7 @@
 outs:
-- md5: c6d1a840a32f4402b188e16ba1a09a9e.dir
-  size: 27096647633
-  nfiles: 85813
+- md5: 19d1f5d23160d77810d45d37cb0a279f.dir
+  size: 13832475984
+  nfiles: 85806
   hash: md5
   path: rdd2022
   push: false
